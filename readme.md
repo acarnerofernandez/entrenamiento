@@ -18,6 +18,7 @@ ya que este nos permitira ser mas rapidos a la vez que hacemos un buen trabajo, 
 y pidele a la IA que sea formal
 </br>
 </br>
+
 ### Como no usarlas
 - No uses las IAS sin saber del tema que vayas a usar, por lo menos estudia un poco para corroborar la informacion 
 - No le pidas que te haga trabajos lo mas probable es que este mal 
