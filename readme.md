@@ -1,15 +1,6 @@
-# Titulo: Las mariposas
+# Influencia de las Inteligencias Artificiales en el Aprendizaje Humano
 
-## que tal?
+La **Inteligencia Artificial (IA)** está cambiando la forma en que las personas aprenden.  
+Ofrece *ventajas claras*, aunque también presenta **retos importantes**.
 
-## Subtitulos: colores
-
-
-me aburro mucho
-
-
-#### SAINZ P3333333
-
-Tres tristres tigres comian trigo en un trigal
-
-Max seguro que gana el campeonato
+--- 
