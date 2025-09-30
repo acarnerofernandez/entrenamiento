@@ -24,4 +24,4 @@ y pidele a la IA que sea formal
 
 ###### GRACIAS POR VER
 
-![Baner.png](../Baner.png)
+![Baner.png](https://raw.githubusercontent.com/acarnerofernandez/entrenamiento/refs/heads/main/Baner.png)
